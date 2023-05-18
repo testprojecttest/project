@@ -9,15 +9,7 @@
 	Hello world!  
 </h1>
 git test
-te1
-te2
-tetetetetete
-tete3
-aa
-abc
-ccc
-ac1111
-abc
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
